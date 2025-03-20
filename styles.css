@@ -234,6 +234,7 @@ aside ul {
 .expense-info strong {
   font-size: 0.87rem;
   color: #1f2523;
+  text-transform: uppercase;
 }
 
 .expense-info span {
